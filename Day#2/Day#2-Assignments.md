@@ -26,17 +26,21 @@
 > Pls don't copy from others. Marks will be reduced for both students
 
 #### #1 [Docker Desktop] Install Docker Desktop and verify the command “docker version”.
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/0a75a7e0-026a-4288-9d62-d03b6da66c2a)
+
 
 ***
 
 #### #2 [K8S] Enable K8S.Install Kubectl.Verify the command “kubectl version”
-> Add your answer here!
+>![image](https://github.com/user-attachments/assets/8dde58fe-1708-466e-b93d-ff5fce7257e2)
+![image](https://github.com/user-attachments/assets/af291214-14db-4389-8d98-539a81516351)
+
 
 ***
 
 #### #3 [Impromptu Learning] Complete the learning (as video / pdf) about the following two topics, read about Kubernetes, and then share a screenshot along with a summary of the story
-> Add your answer here!
+>![image](https://github.com/user-attachments/assets/55d4d399-982a-400a-9fcf-3544c6a75aad)
+
 
 ***
 
@@ -46,7 +50,10 @@
 ***
 
 #### #5 [K8s] Can you deploy a Hello World application in Kubernetes, create a Deployment, expose it using a Service, and verify the output by accessing it in a browser? Please include screenshots of each step and the final browser check.
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/ee5eb1e4-1088-48d6-9d1d-2681eeceaa81)
+> ![image](https://github.com/user-attachments/assets/c8be6614-214f-4802-a6cd-bc414e5a09b1)
+
+
 
 ***
 
