@@ -57,7 +57,8 @@
   - Logo: Place the logo here
   - Details: A popular streaming service offering a vast collection of movies, TV shows, and exclusive content to users worldwide.
 
-> ![mynttra](https://github.com/user-attachments/assets/33fb3618-7fe7-4acc-a34c-a741c4fc5f6d)
+> ![image](https://github.com/user-attachments/assets/9e6cfb71-c16e-4ebe-8c88-1ef8c30f145d)
+
 Cloud Hosted platform - Node.js
 
 ***
