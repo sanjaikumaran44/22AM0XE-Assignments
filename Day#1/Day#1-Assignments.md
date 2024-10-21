@@ -1,4 +1,4 @@
-### Day 1 Assignments
+![image](https://github.com/user-attachments/assets/32b48da4-17b0-4323-863c-5744c723a78f)### Day 1 Assignments
 
 > [!NOTE]
 > Pls edit this table while submitting the assignments
@@ -57,7 +57,8 @@
   - Logo: Place the logo here
   - Details: A popular streaming service offering a vast collection of movies, TV shows, and exclusive content to users worldwide.
 
-> Add your answer here!
+> ![mynttra](https://github.com/user-attachments/assets/33fb3618-7fe7-4acc-a34c-a741c4fc5f6d)
+Cloud Hosted platform - Node.js
 
 ***
 
