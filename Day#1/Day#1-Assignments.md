@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/32b48da4-17b0-4323-863c-5744c723a78f)### Day 1 Assignments
+![image](https://github.com/user-attachments/assets/92f31c96-1ceb-4916-96b4-3a3e6f0f28a0)
+### Day 1 Assignments
 
 > [!NOTE]
 > Pls edit this table while submitting the assignments
@@ -26,7 +27,8 @@
 
 #### #1 [ML] Complete the learning path : https://developers.google.com/codelabs/tensorflow-1-helloworld and add the details in the Github repo
 > Add your answer here!
-> - Completion Badge
+> - ![Screenshot 2024-10-21 122709](https://github.com/user-attachments/assets/efe1b15f-03af-4236-a2d0-7dae07e41519)
+
 > - Completion Screenshot	
 
 ***
