@@ -66,6 +66,7 @@
 ***
 
 #### #6 Create a LinkedIn account with personal mail ID
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/2f7c79e4-6dec-4993-ab43-392127030d89)
+
 
 ***
