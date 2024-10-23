@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/92f31c96-1ceb-4916-96b4-3a3e6f0f28a0)
 ### Day 1 Assignments
 
 > [!NOTE]
@@ -7,13 +6,12 @@
 | Status         | Questions     | 
 |----------------|---------------|
 | <ul><li>- [x] </li></ul> | [ML] Complete the learning path : https://developers.google.com/codelabs/tensorflow-1-helloworld and add the details in the Github repo |
-| <ul><li>- [ ] </li></ul> | Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki. |
-| <ul><li>- [ ] </li></ul> | [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc) |
-| <ul><li>- [ ] </li></ul> | [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser |
-| <ul><li>- [ ] </li></ul> | [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser |
-| <ul><li>- [ ] </li></ul> | [Docker] Pull one of the participant’s docker images and verify whether the app is running or not  |
-| <ul><li>- [ ] </li></ul> | Create a GitHub account with a personal mail ID & fork this repo and rename this in the format 22AM0XG-Assignments-Register-Number  |
+| <ul><li>- [ ] </li></ul> | Deploy the image `pranesh5264/chatbot-image:v1` (port: 7212) in k8s and share the screenshots |
+| <ul><li>- [ ] </li></ul> | Provide a basic example of using Google Colab by following the given steps  |
+| <ul><li>- [ ] </li></ul> | Which products or applications are hosted on the following cloud platforms, and could you also provide their logos and relevant details?  |
+| <ul><li>- [ ] </li></ul> | Create a Github account with personal mail ID and fork the repo https://github.com/SanthoshNC/22AM0XE-Assignments  |
 | <ul><li>- [ ] </li></ul> | Create a LinkedIn account with personal mail ID  |
+
 
 ***
 
@@ -27,50 +25,47 @@
 
 #### #1 [ML] Complete the learning path : https://developers.google.com/codelabs/tensorflow-1-helloworld and add the details in the Github repo
 > Add your answer here!
-> - ![Screenshot 2024-10-21 122709](https://github.com/user-attachments/assets/efe1b15f-03af-4236-a2d0-7dae07e41519)
-
+> - Completion Badge
 > - Completion Screenshot	
+![image](https://github.com/user-attachments/assets/d818e2e0-b868-433e-a0db-a7486953b367)
+
+
+#### #2 Deploy the image `pranesh5264/chatbot-image:v1` (port: 7212) in k8s and share the screenshots
+> 
+![image](https://github.com/user-attachments/assets/12b2699a-2a30-45eb-bf79-f621edc9af3f)
 
 ***
 
-#### #2 Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki
+#### #3 Provide a basic example of using Google Colab by following the given steps
 > Add your answer here!
+> - Create a new Google Colab notebook.
+> - ![image](https://github.com/user-attachments/assets/d71403ea-fd8a-4bf6-9249-d6bbe4d60fe2)
 
-***
+> - Import the NumPy library and create a 2x2 matrix, then print it.
+> - Load a small dataset (e.g., Iris dataset) from an online source, display the first five rows, and provide a brief explanation of the dataset.
 
-#### #3 [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc)
-> Add your answer here!
+![image](https://github.com/user-attachments/assets/befb8e4f-d4c3-44e7-900d-558021c74eb6)
+![image](https://github.com/user-attachments/assets/4465efe1-00f8-4c60-b6af-a7d68c71c8f5)
 
-***
 
-#### #4 [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser
-> Add your answer here!
-
-***
-
-#### #5 [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser
-> Add your answer here!
-
-***
-
-#### #6 Which products or applications are hosted on the following cloud platforms, and could you also provide their logos and relevant details? 
+#### #4 Which products or applications are hosted on the following cloud platforms, and could you also provide their logos and relevant details? 
 - For example:
 - Amazon Prime (Hosted on AWS)
   - Logo: Place the logo here
   - Details: A popular streaming service offering a vast collection of movies, TV shows, and exclusive content to users worldwide.
 
-> ![image](https://github.com/user-attachments/assets/9e6cfb71-c16e-4ebe-8c88-1ef8c30f145d)
+> ![image](https://github.com/user-attachments/assets/9d7c13be-6e74-42f0-8dde-61baea4ca865)
+  Hosted by : Amazon Web Services (AWS)
+> A leading Indian fashion e-commerce platform offering a wide range of clothing, accessories, and lifestyle products.
+***
 
-Cloud Hosted platform - Node.js
+#### #5 Create a Github account with personal mail ID and fork the repo https://github.com/SanthoshNC/22AM0XE-Assignments
+> ![image](https://github.com/user-attachments/assets/cae73c92-0439-4a36-81a6-134b4d0f0949)
+
 
 ***
 
-#### #7 Create a Github account with personal mail ID and fork the repo https://github.com/SanthoshNC/22AM0XE-Assignments
-> Add your answer here!
-
-***
-
-#### #8 Create a LinkedIn account with personal mail ID
+#### #6 Create a LinkedIn account with personal mail ID
 > Add your answer here!
 
 ***
